@@ -29,3 +29,4 @@ int main(){
 
     return 0;
 }
+/* label: create 08-09 ^_^ */
