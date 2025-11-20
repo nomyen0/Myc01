@@ -34,3 +34,4 @@ int main(){
 
     return 0;
 }
+/* label: 20-24 */
