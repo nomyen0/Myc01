@@ -26,3 +26,4 @@ double calSquareAreare(double num1, double num2){
     printf("%.2lf\n", num1);
     return num1 * num2;
 }
+/* label: 15-19 */
