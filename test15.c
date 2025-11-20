@@ -20,3 +20,4 @@ int main(){
 void funcB(){  printf("Hi....\n");       }
 
 void funcC(){  printf("Hello......\n");  }
+/* label: 15-19 */
