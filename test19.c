@@ -36,3 +36,4 @@ int main(){
     inputNumber();
     return 0;
 }
+/* label: 15-19 */
