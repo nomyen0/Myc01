@@ -20,3 +20,4 @@ double funcC(){
     printf("Hey....\n");
     return 10 * 20.5; //expresion
 }
+/* label: 15-19 */
