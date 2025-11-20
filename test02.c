@@ -28,3 +28,4 @@ int main(){    //main function
 void showHi(){    //user-defined function
     printf("Hi\n");
 }
+/* label: create 01 - 05 ^_^ */
