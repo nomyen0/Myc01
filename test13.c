@@ -26,3 +26,4 @@ int main (){
 
     return 0;
 }
+/* label: create10-14 ^^^ */
