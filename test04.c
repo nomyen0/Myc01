@@ -13,3 +13,4 @@ int main(){
 
     return 0;
 }
+/* label: create 01 - 05 ^_^ */
