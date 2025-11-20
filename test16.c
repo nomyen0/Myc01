@@ -18,3 +18,4 @@ void funcB( char* name, int age){
     printf("Hello %s\n", name);
     printf("Your age is %d\n", age);
 }
+/* label: 15-19 */
